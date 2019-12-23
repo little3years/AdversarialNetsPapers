@@ -179,6 +179,8 @@ First paper
 
 :heavy_check_mark: [Self-Supervised Generative Adversarial Networks][[Paper]](https://arxiv.org/abs/1811.11212)[[code]](https://github.com/google/compare_gan)（CVPR 2019）
 
+:heavy_check_mark: [BEGAN: Boundary Equilibrium Generative Adversarial Networks][[Paper]](https://arxiv.org/pdf/1703.10717.pdf)[[code]](https://github.com/JorgeCeja/began-tensorflow)（	arXiv 2017）
+
 ## Scene Generation
 
 :heavy_check_mark: [a layer-based sequential framework for scene generation with gans] [[Paper]](https://arxiv.org/abs/1902.00671)[[Code]](https://github.com/0zgur0/Seq_Scene_Gen)(AAAI 2019)
